@@ -14,4 +14,7 @@ alert(`Recorriste ${distancia}km, equivalen a:
     ${enAuto}km/hora en Auto.`)
 
 
+//CONSOLE
+console.log(distancia)
+
 //comillas mágicas: ``````
